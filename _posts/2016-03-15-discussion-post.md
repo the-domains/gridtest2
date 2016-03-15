@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_This is a great prompt, Isaiah, it's making me think. This is the area of design in which I tend to work harder and not smarter. Thumbnail sketches and the like always take a backseat in my process because I get so focused on the minutiae of a project. I put horses before the carts (no pun intended)\_and often begin with questions centered around color, details, typography, etc. when I should begin with general form and negative space. I feel like I sometimes start with the wrong questions and quickly become frustrated with the results. I also tend to scrap any sketches I begin with because I cannot wholly realize my idea. As a result, I often start at the computer and begin iterating on ideas over and over again until I reach something I'm satisfied with. There's nothing wrong with that, per se, as I eventually come to a resolution. But I know that I could start with paper (or digital paper) and pencil to begin my creative process with much more freedom and fluidity, hashing out what works and what doesn't before I even touch my computer and spend needless time tweaking things. Some things, of course, need to simply be tested and tried over and over again until it looks “right” to the eye and not just in concept or in principle. I may click the center-align button in Illustrator to center an object, but it may not look centered unless there’s harmony and balance across the artboard.\nIt actually reminds me of a scenario in the book Start With Why by Simon Sinek. A group of American auto CEOs take a trip to a Japanese auto manufacturing plant to see how their building\_processes differ from ours. In America, there's a guy who takes a rubber mallet to the doors of the car after they are attached to the body to make sure it’s a snug fit and will close properly. In Japan, this particular job seemed to be absent. When the American CEOs asked their Japanese guide why this is, he said “we make sure the doors fit when we design them.” This is such a great lesson that can be applied to all sorts of fields, but art and design is an obvious one.\_"
-datePublished: '2016-03-15T17:15:35.040Z'
-dateModified: '2016-03-15T17:15:32.589Z'
+datePublished: '2016-03-15T17:18:53.793Z'
+dateModified: '2016-03-15T17:18:45.602Z'
 title: "Discussion Post\_"
 author: []
+sourcePath: _posts/2016-03-15-discussion-post.md
+published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
-sourcePath: _posts/2016-03-15-discussion-post.md
-published: true
 url: discussion-post/index.html
 _type: Article
 
