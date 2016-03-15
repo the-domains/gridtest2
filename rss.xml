@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[gridtest2]]></title>
-        <description><![CDATA[gridtest2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[A little corner for myself]]></title>
+        <description><![CDATA[A little corner for myself]]></description>
+        <link>https://thegrid.ai/gridtest2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 17:09:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 17:17:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gridtest2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Discussion Post ]]></title>
+            <description><![CDATA[<article><h1>Discussion Post </h1><h2>Response 1 </h2><p> This is a great prompt, Isaiah, it's making me think. This is the area of design in which I tend to work harder and not smarter. Thumbnail sketches and the like always take a backseat in my process because I get so focused on the minutiae of a project. I put horses before the carts (no pun intended) and often begin with questions centered around color, details, typography, etc. when I should begin with general form and negative space. I feel like I sometimes start with the wrong questions and quickly become frustrated with the results. I also tend to scrap any sketches I begin with because I cannot wholly realize my idea. As a result, I often start at the computer and begin iterating on ideas over and over again until I reach something I'm satisfied with. There's nothing wrong with that, per se, as I eventually come to a resolution. But I know that I could start with paper (or digital paper) and pencil to begin my creative process with much more freedom and fluidity, hashing out what works and what doesn't before I even touch my computer and spend needless time tweaking things. Some things, of course, need to simply be tested and tried over and over again until it looks “right” to the eye and not just in concept or in principle. I may click the center-align button in Illustrator to center an object, but it may not look centered unless there’s harmony and balance across the artboard.
+It actually reminds me of a scenario in the book Start With Why by Simon Sinek. A group of American auto CEOs take a trip to a Japanese auto manufacturing plant to see how their building processes differ from ours. In America, there's a guy who takes a rubber mallet to the doors of the car after they are attached to the body to make sure it’s a snug fit and will close properly. In Japan, this particular job seemed to be absent. When the American CEOs asked their Japanese guide why this is, he said “we make sure the doors fit when we design them.” This is such a great lesson that can be applied to all sorts of fields, but art and design is an obvious one. </p></article>]]></description>
+            <link>https://thegrid.ai/gridtest2/discussion-post/index.html</link>
+            <guid isPermaLink="false">3141115e-43da-44ba-9e61-d7042e81a6e7</guid>
+            <pubDate>Tue, 15 Mar 2016 17:15:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Proportion vs. Scale ]]></title>
             <description><![CDATA[<article><h1>Proportion vs. Scale </h1><p> The space shuttle itself becomes very passive, or active, in the image depending on how these proportional relationships are presented. How can this be applied to the work you see yourself creating as an artist?
 
 The digital tools we use give us incredible power over perception and focus, and the picture of the tilt-shifted space shuttle is a perfect example of that. I can utilize scale to shift the focus of a piece between two objects, or even affect the implications of a piece. Imagine if the weather-worn space shuttle in the post-apocalyptic photo was much, much smaller—made to look like an old toy left behind by a child instead of a monument left behind by an entire civilization. Perhaps the rider in that piece would have no reason to pause, therefore becoming the focus of the image instead of the shuttle. The grand and surreal implications of the image would be lost, only to be replaced with a somewhat boring wasteland. In my own work I can utilize scale much like these artists did: to shift the focus, alter the implications, even challenge the viewer to think differently based on what the composition entails. That’s a pretty vague explanation but how I utilize scale exactly in a piece of work depends on the content, of course. I may, for example, leverage scale in an unexpected way with our upcoming project in order to add some visual interest and shift the attention.</p></article>]]></description>
-            <link>undefinedproportion-vs-scale/index.html</link>
+            <link>https://thegrid.ai/gridtest2/proportion-vs-scale/index.html</link>
             <guid isPermaLink="false">b808891c-645d-40e4-8c0d-02ba756ad3a1</guid>
             <pubDate>Tue, 15 Mar 2016 17:09:17 GMT</pubDate>
         </item>
